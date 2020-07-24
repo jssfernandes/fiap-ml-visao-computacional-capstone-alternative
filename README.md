@@ -1,8 +1,8 @@
-![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional-capstone-alternative)
-![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional-capstone-alternative)
-![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional-capstone-alternative)
-![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional-capstone-alternative)
-![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional-capstone-alternative)
+![](https://img.shields.io/github/repo-size/jssfernandes/fiap-ml-visao-computacional-capstone-alternative)
+![](https://img.shields.io/github/issues/jssfernandes/fiap-ml-visao-computacional-capstone-alternative)
+![](https://img.shields.io/github/stars/jssfernandes/fiap-ml-visao-computacional-capstone-alternative)
+![](https://img.shields.io/github/watchers/jssfernandes/fiap-ml-visao-computacional-capstone-alternative)
+![](https://img.shields.io/github/last-commit/jssfernandes/fiap-ml-visao-computacional-capstone-alternative)
 
 
 # MBA FIAP Inteligência Artificial & Machine Learning
@@ -54,9 +54,10 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-📙 Utilize o arquivo Jupyter [```projeto-final/analise-imagens-medicas.ipynb```](https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas.ipynb), siga todas as instruções, completando e construindo os algoritmos necessários. Este template foi desenvolvido para ser executado localmente, em uma instalação do Anaconda.
+📙 Utilize o arquivo Jupyter [```projeto-final/analise-imagens-medicas.ipynb```](https://github.com/jssfernandes/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas.ipynb), siga todas as instruções, completando e construindo os algoritmos necessários. Este template foi desenvolvido para ser executado localmente, em uma instalação do Anaconda.
+📙 Abrir versão do Jupyter no Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jssfernandes/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas.ipynb)
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jssfernandes/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
